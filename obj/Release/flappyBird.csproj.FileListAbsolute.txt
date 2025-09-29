@@ -1,0 +1,11 @@
+C:\Users\beyda\source\repos\flappyBird\bin\Release\flappyBird.exe.config
+C:\Users\beyda\source\repos\flappyBird\bin\Release\flappyBird.exe
+C:\Users\beyda\source\repos\flappyBird\bin\Release\flappyBird.pdb
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.csproj.AssemblyReference.cache
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.Properties.Resources.resources
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.csproj.GenerateResource.cache
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.csproj.CoreCompileInputs.cache
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.exe
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.pdb
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.exe.config
+C:\Users\beyda\source\repos\flappyBird\obj\Release\flappyBird.Form1.resources
